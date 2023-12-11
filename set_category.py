@@ -40,6 +40,7 @@ operators = [
     "夜刀", "黑角", "巡林者", "杜林", "12F",
     "Castle-3", "Friston-3", "正义骑士号", "泰拉大陆调查团", "Lancet-2", "U-Official", "THRM-EX",
     "郁金香", "Pith", "Sharp", "Stormeye", "Touch",
+    '火龙黑角', '麒麟夜刀'
 ]
 
 answer_path = './answers_arknights.json'
