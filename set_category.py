@@ -44,7 +44,7 @@ operators = [
 
 answer_path = './answers_arknights.json'
 
-with open(answer_path, 'r') as f:
+with open(answer_path, 'r', encoding='utf-8') as f:
     answers = json.load(f)
 
 for answer in answers:
@@ -69,7 +69,7 @@ for answer in answers:
             answer['category'].remove('其他技能')
         is_operator = False
         for opr in operators:
-            if opr in answer['explanation']:
+            if opr == answer['explanation'].split('的')[0]:
                 is_operator = True
                 break
         if is_operator:
@@ -161,12 +161,11 @@ for answer in answers:
             if '探索者的银凇止境中的节点' not in answer['category']:
                 answer['category'].append('探索者的银凇止境中的节点')
 
-
     if '集成战略分队' in answer['explanation']:
         if '集成战略分队' not in answer['category']:
             answer['category'].append('集成战略分队')
 
-    if ('傀影与猩红孤钻中的' in answer['explanation'] or '水月与深蓝之树中的' in answer['explanation'] or '探索者的银凇止境中的' in answer['explanation']):
+    if '傀影与猩红孤钻中的' in answer['explanation'] or '水月与深蓝之树中的' in answer['explanation'] or '探索者的银凇止境中的' in answer['explanation']:
         if '层' in answer['explanation']:
             if '集成战略层数' not in answer['category']:
                 answer['category'].append('集成战略层数')
@@ -203,11 +202,13 @@ for answer in answers:
     if answer.get('category'):
         new_answers.append(answer)
     else:
+        answer['category'].append('其他')
+        new_answers.append(answer)
         no_category_answers.append(answer)
 print(f'{len(no_category_answers)}/{len(answers)}')
 print(no_category_answers)
 
 
 # print(answers)
-with open(answer_path, 'w') as f:
+with open(answer_path, 'w', encoding='utf-8') as f:
     json.dump(new_answers, f, indent=4, ensure_ascii=False, sort_keys=False)
