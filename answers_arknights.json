@@ -484,9 +484,10 @@
     },
     {
         "word": "喀兰贸易",
-        "explanation": "讯使在未精英化阶段解锁的基建技能；角峰在未精英化阶段解锁的基建技能；崖心在精英化二阶段解锁的基建技能；银灰在未精英化阶段解锁的基建技能",
+        "explanation": "讯使在未精英化阶段解锁的基建技能；角峰在未精英化阶段解锁的基建技能；崖心在精英化二阶段解锁的基建技能；银灰在未精英化阶段解锁的基建技能；阵营名",
         "category": [
-            "干员基建技能"
+            "干员基建技能",
+            "阵营"
         ]
     },
     {
@@ -1565,9 +1566,10 @@
     },
     {
         "word": "彩虹小队",
-        "explanation": "战车在未精英化阶段解锁的基建技能；闪击在未精英化阶段解锁的基建技能；霜华在未精英化阶段解锁的基建技能；灰烬在未精英化阶段解锁的基建技能",
+        "explanation": "战车在未精英化阶段解锁的基建技能；闪击在未精英化阶段解锁的基建技能；霜华在未精英化阶段解锁的基建技能；灰烬在未精英化阶段解锁的基建技能；阵营名",
         "category": [
-            "干员基建技能"
+            "干员基建技能",
+            "阵营"
         ]
     },
     {
@@ -2858,9 +2860,10 @@
     },
     {
         "word": "企鹅物流",
-        "explanation": "可颂在未精英化阶段解锁的基建技能；空在精英化二阶段解锁的基建技能；能天使在未精英化阶段解锁的基建技能；莫斯提马在精英化二阶段解锁的基建技能",
+        "explanation": "可颂在未精英化阶段解锁的基建技能；空在精英化二阶段解锁的基建技能；能天使在未精英化阶段解锁的基建技能；莫斯提马在精英化二阶段解锁的基建技能；阵营名",
         "category": [
-            "干员基建技能"
+            "干员基建技能",
+            "阵营"
         ]
     },
     {
@@ -13387,6 +13390,279 @@
         ]
     },
     {
+        "word": "玻利瓦尔",
+        "explanation": "阵营名",
+        "category": [
+            "阵营"
+        ]
+    },
+    {
+        "word": "哥伦比亚",
+        "explanation": "阵营名",
+        "category": [
+            "阵营"
+        ]
+    },
+    {
+        "word": "伊比利亚",
+        "explanation": "阵营名",
+        "category": [
+            "阵营"
+        ]
+    },
+    {
+        "word": "卡西米尔",
+        "explanation": "阵营名",
+        "category": [
+            "阵营"
+        ]
+    },
+    {
+        "word": "莱塔尼亚",
+        "explanation": "阵营名",
+        "category": [
+            "阵营"
+        ]
+    },
+    {
+        "word": "雷姆必拓",
+        "explanation": "阵营名",
+        "category": [
+            "阵营"
+        ]
+    },
+    {
+        "word": "维多利亚",
+        "explanation": "阵营名",
+        "category": [
+            "阵营"
+        ]
+    },
+    {
+        "word": "精英干员",
+        "explanation": "阵营名",
+        "category": [
+            "阵营"
+        ]
+    },
+    {
+        "word": "深海猎人",
+        "explanation": "阵营名",
+        "category": [
+            "阵营"
+        ]
+    },
+    {
+        "word": "黑钢国际",
+        "explanation": "阵营名",
+        "category": [
+            "阵营"
+        ]
+    },
+    {
+        "word": "莱茵生命",
+        "explanation": "阵营名",
+        "category": [
+            "阵营"
+        ]
+    },
+    {
+        "word": "贾维团伙",
+        "explanation": "阵营名",
+        "category": [
+            "阵营"
+        ]
+    },
+    {
+        "word": "黑暗时代",
+        "explanation": "主线章节",
+        "category": [
+            "主线章节"
+        ]
+    },
+    {
+        "word": "异卵同生",
+        "explanation": "主线章节",
+        "category": [
+            "主线章节"
+        ]
+    },
+    {
+        "word": "二次呼吸",
+        "explanation": "主线章节",
+        "category": [
+            "主线章节"
+        ]
+    },
+    {
+        "word": "急性衰竭",
+        "explanation": "主线章节",
+        "category": [
+            "主线章节"
+        ]
+    },
+    {
+        "word": "靶向药物",
+        "explanation": "主线章节",
+        "category": [
+            "主线章节"
+        ]
+    },
+    {
+        "word": "局部坏死",
+        "explanation": "主线章节",
+        "category": [
+            "主线章节"
+        ]
+    },
+    {
+        "word": "苦难摇篮",
+        "explanation": "主线章节",
+        "category": [
+            "主线章节"
+        ]
+    },
+    {
+        "word": "怒号光明",
+        "explanation": "主线章节",
+        "category": [
+            "主线章节"
+        ]
+    },
+    {
+        "word": "风暴瞭望",
+        "explanation": "主线章节",
+        "category": [
+            "主线章节"
+        ]
+    },
+    {
+        "word": "破碎日冕",
+        "explanation": "主线章节",
+        "category": [
+            "主线章节"
+        ]
+    },
+    {
+        "word": "淬火尘霾",
+        "explanation": "主线章节",
+        "category": [
+            "主线章节"
+        ]
+    },
+    {
+        "word": "惊霆无声",
+        "explanation": "主线章节",
+        "category": [
+            "主线章节"
+        ]
+    },
+    {
+        "word": "恶兆湍流",
+        "explanation": "主线章节",
+        "category": [
+            "主线章节"
+        ]
+    },
+    {
+        "word": "荒芜行动",
+        "explanation": "危机合约赛季名",
+        "category": [
+            "活动"
+        ]
+    },
+    {
+        "word": "黄铁行动",
+        "explanation": "危机合约赛季名",
+        "category": [
+            "活动"
+        ]
+    },
+    {
+        "word": "利刃行动",
+        "explanation": "危机合约赛季名",
+        "category": [
+            "活动"
+        ]
+    },
+    {
+        "word": "燃灰行动",
+        "explanation": "危机合约赛季名",
+        "category": [
+            "活动"
+        ]
+    },
+    {
+        "word": "铅封行动",
+        "explanation": "危机合约赛季名",
+        "category": [
+            "活动"
+        ]
+    },
+    {
+        "word": "光谱行动",
+        "explanation": "危机合约赛季名",
+        "category": [
+            "活动"
+        ]
+    },
+    {
+        "word": "蛮鳞行动",
+        "explanation": "危机合约赛季名",
+        "category": [
+            "活动"
+        ]
+    },
+    {
+        "word": "松烟行动",
+        "explanation": "危机合约赛季名",
+        "category": [
+            "活动"
+        ]
+    },
+    {
+        "word": "寻昼行动",
+        "explanation": "危机合约赛季名",
+        "category": [
+            "活动"
+        ]
+    },
+    {
+        "word": "渊默行动",
+        "explanation": "危机合约赛季名",
+        "category": [
+            "活动"
+        ]
+    },
+    {
+        "word": "尘环行动",
+        "explanation": "危机合约赛季名",
+        "category": [
+            "活动"
+        ]
+    },
+    {
+        "word": "赝波行动",
+        "explanation": "危机合约赛季名",
+        "category": [
+            "活动"
+        ]
+    },
+    {
+        "word": "起源行动",
+        "explanation": "危机合约赛季名",
+        "category": [
+            "活动"
+        ]
+    },
+    {
+        "word": "浊燃作战",
+        "explanation": "尖灭赛季名",
+        "category": [
+            "活动"
+        ]
+    },
+    {
         "word": "造血障碍",
         "explanation": "水月与深蓝之树中的排异反应",
         "category": [
@@ -13499,15 +13775,15 @@
         ]
     },
     {
-        "word": "集成战略",
-        "explanation": "肉鸽！",
+        "word": "特训分队",
+        "explanation": "集成战略分队",
         "category": [
-            "活动"
+            "集成战略分队"
         ]
     },
     {
-        "word": "浊燃作战",
-        "explanation": "尖灭赛季名",
+        "word": "集成战略",
+        "explanation": "肉鸽！",
         "category": [
             "活动"
         ]
@@ -13536,97 +13812,6 @@
     {
         "word": "尖灭测试",
         "explanation": "1000%",
-        "category": [
-            "活动"
-        ]
-    },
-    {
-        "word": "荒芜行动",
-        "explanation": "危机合约赛季名",
-        "category": [
-            "活动"
-        ]
-    },
-    {
-        "word": "黄铁行动",
-        "explanation": "危机合约赛季名",
-        "category": [
-            "活动"
-        ]
-    },
-    {
-        "word": "利刃行动",
-        "explanation": "危机合约赛季名",
-        "category": [
-            "活动"
-        ]
-    },
-    {
-        "word": "燃灰行动",
-        "explanation": "危机合约赛季名",
-        "category": [
-            "活动"
-        ]
-    },
-    {
-        "word": "铅封行动",
-        "explanation": "危机合约赛季名",
-        "category": [
-            "活动"
-        ]
-    },
-    {
-        "word": "光谱行动",
-        "explanation": "危机合约赛季名",
-        "category": [
-            "活动"
-        ]
-    },
-    {
-        "word": "蛮鳞行动",
-        "explanation": "危机合约赛季名",
-        "category": [
-            "活动"
-        ]
-    },
-    {
-        "word": "松烟行动",
-        "explanation": "危机合约赛季名",
-        "category": [
-            "活动"
-        ]
-    },
-    {
-        "word": "寻昼行动",
-        "explanation": "危机合约赛季名",
-        "category": [
-            "活动"
-        ]
-    },
-    {
-        "word": "渊默行动",
-        "explanation": "危机合约赛季名",
-        "category": [
-            "活动"
-        ]
-    },
-    {
-        "word": "尘环行动",
-        "explanation": "危机合约赛季名",
-        "category": [
-            "活动"
-        ]
-    },
-    {
-        "word": "赝波行动",
-        "explanation": "危机合约赛季名",
-        "category": [
-            "活动"
-        ]
-    },
-    {
-        "word": "起源行动",
-        "explanation": "危机合约赛季名",
         "category": [
             "活动"
         ]
@@ -13710,7 +13895,7 @@
     },
     {
         "word": "一张大饼",
-        "explanation": "即将加入：主线名，阵营名，其他额外粥语",
+        "explanation": "即将加入：主线名，其他额外粥语",
         "category": [
             "其他"
         ]
