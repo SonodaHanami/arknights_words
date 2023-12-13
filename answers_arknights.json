@@ -11698,7 +11698,7 @@
     },
     {
         "word": "合约赏金",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，可能来自不同活动；物品，来自危机合约",
         "category": [
             "物品"
         ]
@@ -11992,84 +11992,84 @@
     },
     {
         "word": "行动协议",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，可能来自不同活动；物品，来自危机合约",
         "category": [
             "物品"
         ]
     },
     {
         "word": "电音动态",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自火蓝之心；物品，来自火蓝之心·复刻",
         "category": [
             "物品"
         ]
     },
     {
         "word": "说唱动态",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自火蓝之心；物品，来自火蓝之心·复刻",
         "category": [
             "物品"
         ]
     },
     {
         "word": "元宵通宝",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自限时积分任务",
         "category": [
             "物品"
         ]
     },
     {
         "word": "机械零件",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自密林悍将归来；物品，来自密林悍将归来·复刻",
         "category": [
             "物品"
         ]
     },
     {
         "word": "工厂铁片",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自孤岛风云；物品，来自孤岛风云·复刻",
         "category": [
             "物品"
         ]
     },
     {
         "word": "通关票券",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自灯火序曲",
         "category": [
             "物品"
         ]
     },
     {
         "word": "赛事奖章",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自荷谟伊智境",
         "category": [
             "物品"
         ]
     },
     {
         "word": "鬼虎双星",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自多索雷斯假日",
         "category": [
             "物品"
         ]
     },
     {
         "word": "龙鼠相争",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自多索雷斯假日",
         "category": [
             "物品"
         ]
     },
     {
         "word": "黄金拍档",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自多索雷斯假日",
         "category": [
             "物品"
         ]
     },
     {
         "word": "假日终结",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自多索雷斯假日",
         "category": [
             "物品"
         ]
@@ -12111,56 +12111,56 @@
     },
     {
         "word": "乐谱草稿",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自尘影余音；物品，来自尘影余音·复刻",
         "category": [
             "物品"
         ]
     },
     {
         "word": "神秘试剂",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自绿野幻梦；物品，来自绿野幻梦·复刻",
         "category": [
             "物品"
         ]
     },
     {
         "word": "试炼经验",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自引航者试炼",
         "category": [
             "物品"
         ]
     },
     {
         "word": "数据黑盒",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自引航者试炼",
         "category": [
             "物品"
         ]
     },
     {
         "word": "模块复用",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自引航者试炼",
         "category": [
             "物品"
         ]
     },
     {
         "word": "迅捷处理",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自引航者试炼",
         "category": [
             "物品"
         ]
     },
     {
         "word": "超级闪存",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自引航者试炼",
         "category": [
             "物品"
         ]
     },
     {
         "word": "推斥管控",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自引航者试炼",
         "category": [
             "物品"
         ]
@@ -12181,35 +12181,35 @@
     },
     {
         "word": "修复套件",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自引航者试炼",
         "category": [
             "物品"
         ]
     },
     {
         "word": "维续补丁",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自引航者试炼",
         "category": [
             "物品"
         ]
     },
     {
         "word": "减退模块",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自引航者试炼",
         "category": [
             "物品"
         ]
     },
     {
         "word": "调优重载",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自引航者试炼",
         "category": [
             "物品"
         ]
     },
     {
         "word": "繁荣证章",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自生息演算：沙中之火",
         "category": [
             "物品"
         ]
@@ -12223,21 +12223,21 @@
     },
     {
         "word": "晶化源石",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自尖灭测试作战",
         "category": [
             "物品"
         ]
     },
     {
         "word": "圣像碎片",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自空想花庭",
         "category": [
             "物品"
         ]
     },
     {
         "word": "指木雕刻",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自眠于树影之中",
         "category": [
             "物品"
         ]
@@ -12258,70 +12258,70 @@
     },
     {
         "word": "恢复增幅",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自引航者试炼",
         "category": [
             "物品"
         ]
     },
     {
         "word": "经验习得",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自引航者试炼",
         "category": [
             "物品"
         ]
     },
     {
         "word": "过热运转",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自引航者试炼",
         "category": [
             "物品"
         ]
     },
     {
         "word": "劣质燃料",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自不义之财",
         "category": [
             "物品"
         ]
     },
     {
         "word": "调律追忆",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自崔林特尔梅之金",
         "category": [
             "物品"
         ]
     },
     {
         "word": "乐之节符",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自崔林特尔梅之金",
         "category": [
             "物品"
         ]
     },
     {
         "word": "怒之节符",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自崔林特尔梅之金",
         "category": [
             "物品"
         ]
     },
     {
         "word": "哀之节符",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自崔林特尔梅之金",
         "category": [
             "物品"
         ]
     },
     {
         "word": "惧之节符",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自崔林特尔梅之金",
         "category": [
             "物品"
         ]
     },
     {
         "word": "驮兽盲盒",
-        "explanation": "物品，可能来自不同活动",
+        "explanation": "物品，来自银心湖列车",
         "category": [
             "物品"
         ]
