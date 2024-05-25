@@ -8209,6 +8209,41 @@
         ]
     },
     {
+        "word": "模块维护",
+        "explanation": "折叠式堡垒模块的第1技能",
+        "category": [
+            "其他技能"
+        ]
+    },
+    {
+        "word": "器械维护",
+        "explanation": "折叠式辅助器械的第1技能",
+        "category": [
+            "其他技能"
+        ]
+    },
+    {
+        "word": "阵地屏障",
+        "explanation": "干员/装置/可部署物品名",
+        "category": [
+            "装置/可部署物品名"
+        ]
+    },
+    {
+        "word": "重新发球",
+        "explanation": "足球的第1技能",
+        "category": [
+            "其他技能"
+        ]
+    },
+    {
+        "word": "后勤维护",
+        "explanation": "折叠式后勤站的第1技能",
+        "category": [
+            "其他技能"
+        ]
+    },
+    {
         "word": "灵魂激荡",
         "explanation": "核心增幅器的第1技能；洪流束激发器的第1技能",
         "category": [
@@ -13421,6 +13456,13 @@
         ]
     },
     {
+        "word": "参赛纪念",
+        "explanation": "物品，来自罗德岛促融共竞",
+        "category": [
+            "物品"
+        ]
+    },
+    {
         "word": "弩手组长",
         "explanation": "普通敌人：整合运动的高级远程作战人员。相比一般弩手更具作战能力。装备了被缴获或非法渠道获得到的武器和护具，使用统一的面具和服装掩盖自己身份参与行动。",
         "category": [
@@ -14359,6 +14401,20 @@
         ]
     },
     {
+        "word": "铁头前锋",
+        "explanation": "普通敌人：铁头前锋以头铁而闻名体育界，这位一根筋的选手对战术的总结只有短短三条：“埋头冲锋，埋头冲锋，还是埋头冲锋。”",
+        "category": [
+            "敌人"
+        ]
+    },
+    {
+        "word": "长臂投手",
+        "explanation": "普通敌人：十年来投球最准的天才投手，他的手臂仿佛是专为投球而生。在他眼里，常规的球赛已经失去了乐趣，还是拿球砸人更有趣些。",
+        "category": [
+            "敌人"
+        ]
+    },
+    {
         "word": "梅菲斯特",
         "explanation": "领袖敌人：整合运动干部，以医疗术师身份参与整合运动，通常与浮士德一同行动。指挥其麾下部队进行攻击，而他则负责治疗，并能够提升宿主单位的生命恢复速度。拥有很高的法术抵抗力。目前能判明他就是那些宿主的控制者。",
         "category": [
@@ -14962,6 +15018,30 @@
         ]
     },
     {
+        "word": "未来将至",
+        "explanation": "孤星·复刻中的章节；孤星中的章节",
+        "category": [
+            "活动章节",
+            "章节"
+        ]
+    },
+    {
+        "word": "过往未尽",
+        "explanation": "孤星·复刻中的章节；孤星中的章节",
+        "category": [
+            "活动章节",
+            "章节"
+        ]
+    },
+    {
+        "word": "紧握当下",
+        "explanation": "孤星·复刻中的章节；孤星中的章节",
+        "category": [
+            "活动章节",
+            "章节"
+        ]
+    },
+    {
         "word": "展厅漫游",
         "explanation": "水晶箭行动中的章节",
         "category": [
@@ -15228,30 +15308,6 @@
     {
         "word": "小巷深处",
         "explanation": "尘影余音·复刻中的章节；尘影余音中的章节",
-        "category": [
-            "活动章节",
-            "章节"
-        ]
-    },
-    {
-        "word": "未来将至",
-        "explanation": "孤星中的章节",
-        "category": [
-            "活动章节",
-            "章节"
-        ]
-    },
-    {
-        "word": "过往未尽",
-        "explanation": "孤星中的章节",
-        "category": [
-            "活动章节",
-            "章节"
-        ]
-    },
-    {
-        "word": "紧握当下",
-        "explanation": "孤星中的章节",
         "category": [
             "活动章节",
             "章节"
@@ -15969,6 +16025,300 @@
         "explanation": "尖灭赛季名",
         "category": [
             "活动"
+        ]
+    },
+    {
+        "word": "鞘中赤红",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "久铸尘铁",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "火舞之人",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "冰封原野",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "凝电之钻",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "地生五金",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "百种兵器",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "往日幻象",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "雾漫荒林",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "雪落晨心",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "君影轻灵",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "流沙涡旋",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "不羁逆流",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "无拘熔火",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "瑕光微明",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "沙海过客",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "漂泊于风",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "雪融之诺",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "火花绽放",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "炽焰无霾",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "奔崖怒号",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "未曾起誓",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "前路回响",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "枯焰生花",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "春江逢雪",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "犹在影中",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "烁尘烟中",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "一线微明",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "如死亦终",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "遗愿焰火",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "月隐晦明",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "盛夏新星",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "循光道途",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "浊酒澄心",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "斩荆辟路",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "万象伶仃",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "真理孑然",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "千秋一粟",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "何以为我",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "战术交汇",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "砺火成锋",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
+        ]
+    },
+    {
+        "word": "跨年欢庆",
+        "explanation": "卡池名",
+        "category": [
+            "卡池"
         ]
     },
     {
