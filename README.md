@@ -1,5 +1,7 @@
 # 四字舟语词库
 
+这是可以用在[nonebot-plugin-handle](https://github.com/SonodaHanami/nonebot-plugin-handle)的妙妙词库。
+
 `answers_arknights.json` 内存放了四字舟语的词库，词库会定期更新。
 
 `answers_arknights.json` 是由程序自动生成的文件，其中除 `pinyin` 外的内容不应被手动改动。
