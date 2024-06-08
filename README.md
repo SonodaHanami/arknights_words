@@ -2,9 +2,9 @@
 
 这是可以用在[nonebot-plugin-handle](https://github.com/SonodaHanami/nonebot-plugin-handle)的妙妙词库。
 
-`answers_arknights.json` 内存放了四字舟语的词库，词库会定期更新。
+`answers_arknights.json` 内存放了四字舟语的词库，词库会~~不~~定期更新。
 
-`answers_arknights.json` 是由程序自动生成的文件，其中除 `pinyin` 外的内容不应被手动改动。
+`answers_arknights.json` 是由程序自动生成的文件，其中的内容不应被手动改动。
 
 文件中的单元遵守以下格式
 
@@ -15,13 +15,17 @@
     "category": [
         "舟语的分组",
         "总分组和子分组不区分"
-    ],
-    "pinyin": [
-        "si4",
-        "zi4",
-        "zhou1",
-        "yu3"
     ]
+}
+```
+
+`pinyin_arknights.json` 内对应存放了四字舟语的拼音。
+
+文件中的单元遵守以下格式
+
+```json
+{
+    "明日方舟": ["ming2", "ri4", "fang1", "zhou1"]
 }
 ```
 
