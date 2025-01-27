@@ -4,9 +4,7 @@
 
 `answers_arknights.json` 内存放了四字舟语的词库，词库会~~不~~定期更新。
 
-`answers_arknights.json` 是由程序自动生成的文件，其中的内容不应被手动改动。
-
-文件遵守以下格式
+`answers_arknights.json` 是由程序自动生成的文件，其中的内容不应被手动改动，文件遵守以下格式
 
 ```json
 [
@@ -24,15 +22,25 @@
 ]
 ```
 
-`pinyin_arknights.json` 内对应存放了四字舟语的拼音。
-
-文件遵守以下格式
+`pinyin_arknights.json` 内对应存放了四字舟语的拼音，文件遵守以下格式
 
 ```json
 {
     "明日方舟": ["ming2", "ri4", "fang1", "zhou1"],
     "维什戴尔": ["wei2", "shi2", "dai4", "er3"],
     "目光呆滞": ["mu4", "guang1", "dai1", "zhi4"]
+}
+```
+
+`pypinyin_diff_validation.py` 用于比对 `pinyin_arknights.json` 与 [pypinyin](https://pypi.org/project/pypinyin/) 库给出的拼音的差异
+
+`pypinyin_diff_whitelist.json` 用于在比对差异时自动跳过某些词语，文件遵守以下格式
+
+```json
+{
+    "矮脚长桌": "（此处可为空）",
+    "八面骰子": "骰子，轻声",
+    "半洗孤钻": ""
 }
 ```
 
